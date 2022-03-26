@@ -1,0 +1,13 @@
+form{
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+    align-self: center;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px grey;
+    padding: 10px;
+}
+
+#about{
+    height: 60px;
+}
